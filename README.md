@@ -137,13 +137,3 @@ mvn clean install -DskipTests
 * **LLM Prompt Engineering:** A simple prompt is used for Cohere to instruct it on summarizing the list of to-do items. This can be further refined for better results.
 * **Notification System:** A simple notification component in React provides immediate feedback to the user about operations.
 
-## Demo Images
-
-![Screenshot (1146)](https://github.com/user-attachments/assets/53fe53e3-b527-4659-9ab6-b462ae034fbd)
-
-![Screenshot (1144)](https://github.com/user-attachments/assets/474b1a46-36c8-4407-8bf9-a46ca911603b)
-
-![Screenshot (1143)](https://github.com/user-attachments/assets/1e9f8783-d0df-42ce-a3f8-ec7ca5e7c078)
-=======
-# TodoSummaryAssistant-DevOps
->>>>>>> d3f2d39e84a8d228ba6d36f8ccb7719428a5d6ca
