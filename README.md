@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Todo Summary Assistant
 
 A full-stack application to manage personal to-do items, summarize pending tasks using Cohere LLM, and send the summary to a Slack channel.
