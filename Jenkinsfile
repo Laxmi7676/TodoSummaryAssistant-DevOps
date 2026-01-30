@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         REGISTRY = "docker.io"
-        IMAGE_NAME = "IMAGE_NAME = "laxmir22095/todo-summary-app"
+        IMAGE_NAME = "laxmir22095/todo-summary-app"
         DOCKER_CREDS = credentials('dockerhub-creds')
     }
 
